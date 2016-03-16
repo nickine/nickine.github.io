@@ -33,6 +33,7 @@ a:hover {
 }
 .breadcrumb{
 	margin-bottom: 0;
+  background-color: white;
 }
 hr {
 	border-top:1px #E0DBB0 solid;
