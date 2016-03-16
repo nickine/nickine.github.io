@@ -86,10 +86,16 @@ background-image: url(../img/DogGrooming3.jpg);
 }
 .specialist-jumbo {
   background-image: url(../img/shitzu.jpg);
+  background-position: 50%;
   color: white;
 }
 .specialist-jumbo .text_define {
 	text-shadow: 1px 1px 0 #000, -1px 1px 0 #000,-1px -1px 0 #000,1px -1px 0 #000;
+}
+.specialist-jumbo p {
+  color: white;
+  background: rgba(25, 76, 80, 0.55);
+  padding: 5px;
 }
 .index-jumbo .text_define {
 	text-shadow: 1px 1px 0 #E0DBB0;
